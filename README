@@ -1,1 +1,12 @@
-README
+QuTiP Lectures as IPython notebooks
+===================================
+
+Quantum mechanics and quantum optics lectures and demonstrations using QuTiP. For more information about QuTiP, see
+
+http://qutip.googlecode.com
+
+To open these notebooks in IPython, download the files to a directory on your computer and from that directory run::
+
+$ ipython notebook
+
+This will open a new page in your browser with a list of the available notebooks.
