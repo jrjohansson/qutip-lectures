@@ -10,3 +10,24 @@ To open these notebooks in IPython, download the files to a directory on your co
 $ ipython notebook
 
 This will open a new page in your browser with a list of the available notebooks.
+
+Online read-only versions
+=========================
+
+Use the following links:
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-1-Jaynes-Cumming-model.ipynb
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-2A-Cavity-Qubit-Gates.ipynb
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-2B-Single-Atom-Lasing.ipynb
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-3A-Dicke-model.ipynb
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-3B-Jaynes-Cumming-model-with-ultrastrong-coupling.ipynb
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-4-Correlation-Functions.ipynb
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-5-Parametric-Amplifier.ipynb
+
+http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-6-Quantum-Monte-Carlo-Trajectories.ipynb
