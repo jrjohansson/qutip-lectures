@@ -16,6 +16,7 @@ Online read-only versions
 
 Use the following links:
 
+* [Lecture-0 Introduction to QuTiP](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-0-Introduction-to-QuTiP.ipynb)
 * [Lecture-1 Jaynes-Cumming model](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-1-Jaynes-Cumming-model.ipynb)
 * [Lecture-2A Cavity-Qubit Gates](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-2A-Cavity-Qubit-Gates.ipynb)
 * [Lecture-2B Single-Atom Lasing](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-2B-Single-Atom-Lasing.ipynb)
