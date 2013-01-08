@@ -25,3 +25,5 @@ Use the following links:
 * [Lecture-4 Correlation Functions](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-4-Correlation-Functions.ipynb)
 * [Lecture-5 Parametric Amplifier](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-5-Parametric-Amplifier.ipynb)
 * [Lecture-6 Quantum Monte Carlo Trajectories](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-6-Quantum-Monte-Carlo-Trajectories.ipynb)
+* [Lecture-7 iSWAP-gate](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-7-iSWAP-gate.ipynb)
+* [Lecture-8 Adiabatic quantum computing](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-8-Adiabatic-quantum-computing.ipynb)
