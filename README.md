@@ -27,3 +27,6 @@ Use the following links:
 * [Lecture-6 Quantum Monte Carlo Trajectories](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-6-Quantum-Monte-Carlo-Trajectories.ipynb)
 * [Lecture-7 iSWAP-gate](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-7-iSWAP-gate.ipynb)
 * [Lecture-8 Adiabatic quantum computing](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-8-Adiabatic-quantum-computing.ipynb)
+* [Lecture-9 Squeezed states of harmonic oscillator](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-9-Squeezed-states-of-harmonic-oscillator.ipynb)
+* [Lecture-10 cQED in the dispersive regime](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-10-cQED-dispersive-regime.ipynb)
+
