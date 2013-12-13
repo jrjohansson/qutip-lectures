@@ -32,4 +32,5 @@ Use the following links:
 * [Lecture-11 Charge Qubits](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-11-Charge-Qubits.ipynb)
 * [Lecture-12 Decay into a squeezed vacuum field](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-12-Decay-into-a-squeezed-vacuum-field.ipynb)
 * [Lecture-14 Kerr nonlinearities](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-14-Kerr-nonlinearities.ipynb)
+* [Lecture-15 Nonclassically driven atoms](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Nonclassically-driven-atoms.ipynb)
 
