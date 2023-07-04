@@ -8,9 +8,9 @@ For more information about QuTiP, see
 
 https://qutip.googlecode.com
 
-To open these notebooks in Jupyter notebook, download the files to a directory on your computer and from that directory run:
+To open these notebooks in Jupyter Notebook or JupyterLab, download the files to a directory on your computer and from that directory run:
 
-    $ jupyter notebook
+    $ jupyter notebook  # or
     $ jupyter lab
 
 This will open a new page in your browser with a list of the available notebooks.
@@ -19,8 +19,7 @@ This will open a new page in your browser with a list of the available notebooks
 Online read-write versions
 ===========================
 - https://mybinder.org/v2/gh/jrjohansson/qutip-lectures/HEAD
-- https://mybinder.org/v2/gh/jrjohansson/qutip-lectures/HEAD?labpath=
-
+- https://mybinder.org/v2/gh/jrjohansson/qutip-lectures/HEAD?labpath=Lecture-0-Introduction-to-QuTiP.ipynb
 
 Online read-only versions
 =========================
